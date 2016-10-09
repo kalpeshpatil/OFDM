@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="classgr_1_1custom_1_1myCycPref" kind="class"><name>gr::custom::myCycPref</name>
+    <member refid="classgr_1_1custom_1_1myCycPref_1ace9a8e06725ae66ad7382680ee70b517" kind="typedef"><name>sptr</name></member>
+    <member refid="classgr_1_1custom_1_1myCycPref_1ace6ce2b2f3965441da4b4c5ea2de3e5e" kind="function"><name>make</name></member>
+  </compound>
+  <compound refid="namespacegr" kind="namespace"><name>gr</name>
+  </compound>
+  <compound refid="namespacegr_1_1custom" kind="namespace"><name>gr::custom</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="api_8h" kind="file"><name>api.h</name>
+    <member refid="api_8h_1a1806ab788d6406379b257e6ff1a6a511" kind="define"><name>CUSTOM_API</name></member>
+  </compound>
+  <compound refid="myCycPref_8h" kind="file"><name>myCycPref.h</name>
+  </compound>
+  <compound refid="dir_acde8a1373d3945bfe7e600bbb94d01b" kind="dir"><name>/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/include/custom</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/include</name>
+  </compound>
+</doxygenindex>

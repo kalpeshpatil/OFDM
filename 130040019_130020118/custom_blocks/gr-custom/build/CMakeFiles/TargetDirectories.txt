@@ -1,0 +1,9 @@
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/build/swig/CMakeFiles/_custom_swig.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/build/swig/CMakeFiles/_custom_swig_doc_tag.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/build/swig/CMakeFiles/_custom_swig_swig_tag.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/build/lib/CMakeFiles/gnuradio-custom.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/build/python/CMakeFiles/pygen_python_7608e.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/build/swig/CMakeFiles/pygen_swig_06153.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/build/lib/CMakeFiles/test-custom.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/build/CMakeFiles/uninstall.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,libgnuradio-my_carrier_allocator.so -o libgnuradio-my_carrier_allocator.so CMakeFiles/gnuradio-my_carrier_allocator.dir/my_carrier_allocator_impl.cc.o -lboost_filesystem -lboost_system -lgnuradio-runtime 

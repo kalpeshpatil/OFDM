@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator" kind="class" prot="public">
+    <compoundname>gr::my_carrier_allocator::my_carrier_allocator</compoundname>
+    <basecompoundref prot="public" virt="virtual">block</basecompoundref>
+    <includes refid="my__carrier__allocator_8h" local="no">my_carrier_allocator.h</includes>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator_1afd5c367adcf1185ff3bac778080589f1" prot="public" static="no">
+        <type>boost::shared_ptr&lt; <ref refid="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator" kindref="compound">my_carrier_allocator</ref> &gt;</type>
+        <definition>typedef boost::shared_ptr&lt;my_carrier_allocator&gt; gr::my_carrier_allocator::my_carrier_allocator::sptr</definition>
+        <argsstring></argsstring>
+        <name>sptr</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/include/my_carrier_allocator/my_carrier_allocator.h" line="39" column="1" bodyfile="/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/include/my_carrier_allocator/my_carrier_allocator.h" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator_1a19e0c96e80c8bcf0b1f009101f0b6390" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator_1afd5c367adcf1185ff3bac778080589f1" kindref="member">sptr</ref></type>
+        <definition>static sptr gr::my_carrier_allocator::my_carrier_allocator::make</definition>
+        <argsstring>()</argsstring>
+        <name>make</name>
+        <briefdescription>
+<para>Return a shared_ptr to a new instance of <ref refid="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator" kindref="compound">my_carrier_allocator::my_carrier_allocator</ref>. </para>        </briefdescription>
+        <detaileddescription>
+<para>To avoid accidental use of raw pointers, <ref refid="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator" kindref="compound">my_carrier_allocator::my_carrier_allocator</ref>&apos;s constructor is in a private implementation class. <ref refid="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator_1a19e0c96e80c8bcf0b1f009101f0b6390" kindref="member">my_carrier_allocator::my_carrier_allocator::make</ref> is the public interface for creating new instances. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/include/my_carrier_allocator/my_carrier_allocator.h" line="49" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>&lt;+description of block+&gt; </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="0">
+        <label>gr::my_carrier_allocator::my_carrier_allocator</label>
+        <link refid="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>gr::block</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>gr::my_carrier_allocator::my_carrier_allocator</label>
+        <link refid="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>gr::block</label>
+      </node>
+    </collaborationgraph>
+    <location file="/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/include/my_carrier_allocator/my_carrier_allocator.h" line="37" column="1" bodyfile="/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/include/my_carrier_allocator/my_carrier_allocator.h" bodystart="36" bodyend="50"/>
+    <listofallmembers>
+      <member refid="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator_1a19e0c96e80c8bcf0b1f009101f0b6390" prot="public" virt="non-virtual"><scope>gr::my_carrier_allocator::my_carrier_allocator</scope><name>make</name></member>
+      <member refid="classgr_1_1my__carrier__allocator_1_1my__carrier__allocator_1afd5c367adcf1185ff3bac778080589f1" prot="public" virt="non-virtual"><scope>gr::my_carrier_allocator::my_carrier_allocator</scope><name>sptr</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

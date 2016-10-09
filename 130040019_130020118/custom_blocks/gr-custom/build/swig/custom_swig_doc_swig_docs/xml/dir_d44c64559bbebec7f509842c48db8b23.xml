@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_d44c64559bbebec7f509842c48db8b23" kind="dir">
+    <compoundname>/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/include</compoundname>
+    <innerdir refid="dir_acde8a1373d3945bfe7e600bbb94d01b">/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/include/custom</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/include/"/>
+  </compounddef>
+</doxygen>

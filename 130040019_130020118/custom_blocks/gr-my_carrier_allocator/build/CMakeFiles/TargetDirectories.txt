@@ -1,0 +1,9 @@
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/build/swig/CMakeFiles/_my_carrier_allocator_swig.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/build/swig/CMakeFiles/_my_carrier_allocator_swig_doc_tag.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/build/swig/CMakeFiles/_my_carrier_allocator_swig_swig_tag.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/build/lib/CMakeFiles/gnuradio-my_carrier_allocator.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/build/python/CMakeFiles/pygen_python_0a9e4.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/build/swig/CMakeFiles/pygen_swig_dc8bf.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/build/lib/CMakeFiles/test-my_carrier_allocator.dir
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/build/CMakeFiles/uninstall.dir

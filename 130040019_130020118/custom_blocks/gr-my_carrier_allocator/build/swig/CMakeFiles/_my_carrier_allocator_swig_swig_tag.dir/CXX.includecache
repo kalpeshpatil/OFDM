@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/build/swig/_my_carrier_allocator_swig_swig_tag.cpp
+

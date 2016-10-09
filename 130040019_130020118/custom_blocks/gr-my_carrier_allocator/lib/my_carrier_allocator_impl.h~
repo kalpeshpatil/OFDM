@@ -1,0 +1,33 @@
+
+
+#ifndef INCLUDED_MY_CARRIER_ALLOCATOR_MY_CARRIER_ALLOCATOR_IMPL_H
+#define INCLUDED_MY_CARRIER_ALLOCATOR_MY_CARRIER_ALLOCATOR_IMPL_H
+
+#include <my_carrier_allocator/my_carrier_allocator.h>
+
+namespace gr {
+  namespace my_carrier_allocator {
+
+    class my_carrier_allocator_impl : public my_carrier_allocator
+    {
+     private:
+      // Nothing to declare in this block.
+
+     public:
+      my_carrier_allocator_impl();
+      ~my_carrier_allocator_impl();
+
+      // Where all the action really happens
+      void forecast (int noutput_items, gr_vector_int &ninput_items_required);
+
+      int general_work(int noutput_items,
+		       gr_vector_int &ninput_items,
+		       gr_vector_const_void_star &input_items,
+		       gr_vector_void_star &output_items);
+    };
+
+  } // namespace my_carrier_allocator
+} // namespace gr
+
+#endif /* INCLUDED_MY_CARRIER_ALLOCATOR_MY_CARRIER_ALLOCATOR_IMPL_H */
+

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_acde8a1373d3945bfe7e600bbb94d01b" kind="dir">
+    <compoundname>/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/include/custom</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <innerfile refid="myCycPref_8h">myCycPref.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/include/custom/"/>
+  </compounddef>
+</doxygen>

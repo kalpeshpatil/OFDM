@@ -1,0 +1,14 @@
+/usr/local/lib/cmake/my_carrier_allocator/my_carrier_allocatorConfig.cmake
+/usr/local/include/my_carrier_allocator/api.h
+/usr/local/include/my_carrier_allocator/my_carrier_allocator.h
+/usr/local/lib/libgnuradio-my_carrier_allocator.so
+/usr/local/lib/python2.7/dist-packages/my_carrier_allocator/_my_carrier_allocator_swig.so
+/usr/local/lib/python2.7/dist-packages/my_carrier_allocator/my_carrier_allocator_swig.py
+/usr/local/lib/python2.7/dist-packages/my_carrier_allocator/my_carrier_allocator_swig.pyc
+/usr/local/lib/python2.7/dist-packages/my_carrier_allocator/my_carrier_allocator_swig.pyo
+/usr/local/include/my_carrier_allocator/my_carrier_allocator/swig/my_carrier_allocator_swig.i
+/usr/local/include/my_carrier_allocator/my_carrier_allocator/swig/my_carrier_allocator_swig_doc.i
+/usr/local/lib/python2.7/dist-packages/my_carrier_allocator/__init__.py
+/usr/local/lib/python2.7/dist-packages/my_carrier_allocator/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/my_carrier_allocator/__init__.pyo
+/usr/local/share/gnuradio/grc/blocks/my_carrier_allocator_my_carrier_allocator.xml

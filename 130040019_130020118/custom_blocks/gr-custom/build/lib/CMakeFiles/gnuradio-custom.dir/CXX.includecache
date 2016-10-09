@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/lib/myCycPref_impl.cc
+config.h
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/lib/config.h
+gnuradio/io_signature.h
+-
+myCycPref_impl.h
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/lib/myCycPref_impl.h
+
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-custom/lib/myCycPref_impl.h
+gnuradio/digital/ofdm_cyclic_prefixer.h
+-
+

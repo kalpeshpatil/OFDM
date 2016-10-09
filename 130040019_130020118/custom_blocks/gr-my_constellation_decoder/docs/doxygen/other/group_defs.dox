@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio MY_CONSTELLATION_DECODER C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the MY_CONSTELLATION_DECODER GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+

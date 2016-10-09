@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_constellation_decoder/build/swig/_my_constellation_decoder_swig_doc_tag.cpp
+

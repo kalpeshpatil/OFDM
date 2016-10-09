@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_constellation_decoder/lib/my_constellation_decoder_impl.cc
+config.h
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_constellation_decoder/lib/config.h
+my_constellation_decoder_impl.h
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_constellation_decoder/lib/my_constellation_decoder_impl.h
+gnuradio/io_signature.h
+-
+
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_constellation_decoder/lib/my_constellation_decoder_impl.h
+gnuradio/digital/constellation_decoder_cb.h
+-
+

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder" kind="class" prot="public">
+    <compoundname>gr::my_constellation_decoder::my_constellation_decoder</compoundname>
+    <basecompoundref prot="public" virt="virtual">block</basecompoundref>
+    <includes refid="my__constellation__decoder_8h" local="no">my_constellation_decoder.h</includes>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder_1ab1cb0538c3e30a5afdde47ff022de35b" prot="public" static="no">
+        <type>boost::shared_ptr&lt; <ref refid="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder" kindref="compound">my_constellation_decoder</ref> &gt;</type>
+        <definition>typedef boost::shared_ptr&lt;my_constellation_decoder&gt; gr::my_constellation_decoder::my_constellation_decoder::sptr</definition>
+        <argsstring></argsstring>
+        <name>sptr</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_constellation_decoder/include/my_constellation_decoder/my_constellation_decoder.h" line="39" column="1" bodyfile="/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_constellation_decoder/include/my_constellation_decoder/my_constellation_decoder.h" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder_1a40a0c9758fff52d320f6080001d9fa76" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder_1ab1cb0538c3e30a5afdde47ff022de35b" kindref="member">sptr</ref></type>
+        <definition>static sptr gr::my_constellation_decoder::my_constellation_decoder::make</definition>
+        <argsstring>()</argsstring>
+        <name>make</name>
+        <briefdescription>
+<para>Return a shared_ptr to a new instance of <ref refid="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder" kindref="compound">my_constellation_decoder::my_constellation_decoder</ref>. </para>        </briefdescription>
+        <detaileddescription>
+<para>To avoid accidental use of raw pointers, <ref refid="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder" kindref="compound">my_constellation_decoder::my_constellation_decoder</ref>&apos;s constructor is in a private implementation class. <ref refid="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder_1a40a0c9758fff52d320f6080001d9fa76" kindref="member">my_constellation_decoder::my_constellation_decoder::make</ref> is the public interface for creating new instances. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_constellation_decoder/include/my_constellation_decoder/my_constellation_decoder.h" line="49" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>&lt;+description of block+&gt; </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="0">
+        <label>gr::my_constellation_decoder::my_constellation_decoder</label>
+        <link refid="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>gr::block</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>gr::my_constellation_decoder::my_constellation_decoder</label>
+        <link refid="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>gr::block</label>
+      </node>
+    </collaborationgraph>
+    <location file="/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_constellation_decoder/include/my_constellation_decoder/my_constellation_decoder.h" line="37" column="1" bodyfile="/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_constellation_decoder/include/my_constellation_decoder/my_constellation_decoder.h" bodystart="36" bodyend="50"/>
+    <listofallmembers>
+      <member refid="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder_1a40a0c9758fff52d320f6080001d9fa76" prot="public" virt="non-virtual"><scope>gr::my_constellation_decoder::my_constellation_decoder</scope><name>make</name></member>
+      <member refid="classgr_1_1my__constellation__decoder_1_1my__constellation__decoder_1ab1cb0538c3e30a5afdde47ff022de35b" prot="public" virt="non-virtual"><scope>gr::my_constellation_decoder::my_constellation_decoder</scope><name>sptr</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

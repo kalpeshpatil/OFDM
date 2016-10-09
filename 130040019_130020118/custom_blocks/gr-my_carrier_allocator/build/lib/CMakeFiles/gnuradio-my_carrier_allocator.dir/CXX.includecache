@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/lib/my_carrier_allocator_impl.cc
+config.h
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/lib/config.h
+gnuradio/io_signature.h
+-
+my_carrier_allocator_impl.h
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/lib/my_carrier_allocator_impl.h
+
+/home/kalpesh/EE340_OFDM/custom_blocks/gr-my_carrier_allocator/lib/my_carrier_allocator_impl.h
+gnuradio/digital/ofdm_carrier_allocator_cvc.h
+-
+
